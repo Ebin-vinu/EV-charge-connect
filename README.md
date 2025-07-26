@@ -26,3 +26,8 @@ AI-driven recommendations and support
 Community engagement to help expand the charging network
 
 Contributions and feedback are welcome to help grow this project to better serve the community and support the transition to electric vehicles!
+
+
+
+<img width="1797" height="905" alt="Screenshot 2025-07-27 004111" src="https://github.com/user-attachments/assets/7a48136c-418d-4ac2-8102-4c5d690dc627" />
+

@@ -34,8 +34,8 @@ export default function DashboardPage() {
 
   // Mock user data
   const user = {
-    name: 'Rajesh Kumar',
-    email: 'rajesh.kumar@email.com',
+    name: 'Ebin Vinu',
+    email: 'ebinvinu1@email.com',
     phone: '+91 98765 43210',
     vehicleType: 'Electric Car',
     joinDate: 'January 2024',
